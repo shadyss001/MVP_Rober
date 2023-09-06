@@ -9,5 +9,10 @@
 
 ![](1468491352111854412.jpg)
 
+### ESP82 GPIO
+More info RandomNerdTutorial [ESP8266 Pinout Reference: Which GPIO pins should you use?](https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/)
+
+![](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2019/05/ESP8266-NodeMCU-kit-12-E-pinout-gpio-pin.png)
+
 ## Schematic
 ## See also
