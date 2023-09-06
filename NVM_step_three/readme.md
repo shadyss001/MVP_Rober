@@ -6,5 +6,8 @@
 * Hook-up wires
 
 ## Circuit
+
+![](1468491352111854412.jpg)
+
 ## Schematic
 ## See also
