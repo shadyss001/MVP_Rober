@@ -7,7 +7,7 @@
 
 ## Circuit
 
-![](1468491352111854412.jpg)
+![](rober_iii_l298n-nodemcu_bb.png)
 
 ### ESP82 GPIO
 More info RandomNerdTutorial [ESP8266 Pinout Reference: Which GPIO pins should you use?](https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/)
